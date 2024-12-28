@@ -12,4 +12,5 @@ This full-stack application allows users to log in, upload their own PDFs, and c
 - **RAG Knowledge Base**: Automatically generates a RAG-based knowledge base from uploaded PDFs.
 - **Chat Interface**: Users can interact with their knowledge base through a conversational chat interface.
 - **Serverless APIs**: Built using Cloudflare for scalable and efficient backend services.
-- **Modern Stack**: Utilizes React, Vite, Python, LangChain, and Llama3 for a cutting-edge development experience.
+- **Modern Stack**: Utilizes React, Vite, Python, LangChain, and Llama3 for a cutting-edge development experience
+.
